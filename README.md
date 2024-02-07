@@ -29,7 +29,7 @@
 
 
 <p align="center">
-🧰 Languages and Tools<br><br>
+<h3>🧰 Languages and Tools</h3><br><br>
 <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -42,8 +42,8 @@
 <div align="center">
 <h3>📊 Stats</h3>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuskimyman&show_icons=true&theme=gruvbox)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Abuskimyman&theme=gruvbox&border_radius=4.5) -->
 </div>
 
 
