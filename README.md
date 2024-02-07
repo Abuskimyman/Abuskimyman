@@ -5,8 +5,8 @@ I'm a Front end Developer.
 <p align="center">
   <a href="https://github.com/Abuskimyman">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ekeanyanwu Christian" /></a>
-  <h4> 📫 How to reach me:</h4>
-    <a href="https://linktr.ee/justlovechris">Click Here</a>
+  <h4 align="center"> 📫 How to reach me:</h4>
+    <a  href="https://linktr.ee/justlovechris" align="center">Click Here</a>
 </p>
 
 <p align="center">
