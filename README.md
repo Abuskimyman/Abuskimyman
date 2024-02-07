@@ -14,8 +14,7 @@
   <a href="https://github.com/Abuskimyman/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;2years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<!--
-**Abuskimyman/Abuskimyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <!-- Social icons section -->
 <p align="center">
