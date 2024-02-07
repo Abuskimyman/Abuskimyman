@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Abuskimyman">
-    <h4 align="center" style="purple">Hi, I'm Christian 👋</h4>
+    <h2 align="center" style="purple">Hi, I'm Christian 👋</h2>
    </a>
   <div align="center">
     <h4> 📫 How to reach me:</h4>
@@ -40,8 +40,8 @@
 
 ### 
 <div align="center">
-📊 Stats
-  
+<h3>📊 Stats</h3>
+
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 </div>
