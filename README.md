@@ -23,6 +23,7 @@
   <a href="https://linkedin.com/in/ekeanyanwuchukwuebuka"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/justlovechris"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/justlovechris"><img width="32px" alt="Instagram " title="Instagram " src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -42,14 +43,14 @@
 <div align="center">
 <h3>📊 Stats</h3>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuskimyman&show_icons=true&theme=gruvbox)
+![Abuskimyman stats](https://github-readme-stats.vercel.app/api?username=Abuskimyman&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Abuskimyman&theme=gruvbox&border_radius=4.5) -->
 </div>
 
 
 <p align="center">
  - 🌱 I’m currently learning React Native and Testing.<br>
-- 👯 I’m looking to collaborate on web developers.<br>
+- 👯 I’m looking to collaborate with web developers.<br>
 - 💬 Ask me about anything tech ekeanyanwuchristian10@gmail.com<br>
 - ⚡ Fun fact: I love watching movies and enjoy programming.
 </p>
