@@ -47,8 +47,10 @@
 </div>
 
 
-- 🌱 I’m currently learning React Native and Testing.
+<p align="center">
+  - 🌱 I’m currently learning React Native and Testing.
 - 👯 I’m looking to collaborate on web developers.
 - 💬 Ask me about anything tech ekeanyanwuchristian10@gmail.com
 - ⚡ Fun fact: I love watching movies and enjoy programming.
+</p>
 
