@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Abuskimyman">
-    <h4 align="center">Hi, I'm Christian 👋</h4>
+    <h4 align="center" style="purple">Hi, I'm Christian 👋</h4>
    </a>
   <div align="center">
     <h4> 📫 How to reach me:</h4>
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-🧰 Languages and Tools<br>
+🧰 Languages and Tools<br><br>
 <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
