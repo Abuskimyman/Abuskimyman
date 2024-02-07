@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/Abuskimyman">
     <h2 align="center" style="purple">Hi, I'm Christian 👋</h2>
@@ -26,7 +25,6 @@
   <a href="https://linkedin.com/in/ekeanyanwuchukwuebuka"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/justlovechris"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  <a href="https://instagram.com/justlovechris"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
