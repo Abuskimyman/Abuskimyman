@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Hello, I'm Jane Smith, a passionate front-end developer dedicated to creating immersive and user-friendly web experiences. With a keen eye for design and a solid technical foundation, I bring creativity and functionality to every project.
+  I'm a passionate front-end developer dedicated to creating immersive and user-friendly web experiences. With a keen eye for design and a solid technical foundation, I bring creativity and functionality to every project.
 </p>
 
 <p align="center">
