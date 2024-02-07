@@ -1,7 +1,7 @@
-### Hi, I'm Christian 👋
+
 <p align="center">
   <a href="https://github.com/Abuskimyman">
-    <h4 color="purple">Hi, I'm Christian 👋</h4>
+    <h4 align="center">Hi, I'm Christian 👋</h4>
    </a>
   <div align="center">
     <h4> 📫 How to reach me:</h4>
