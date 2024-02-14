@@ -54,7 +54,7 @@
 <p align="center">
  - 🌱 I’m currently learning React Native and Testing.<br>
 - 👯 I’m looking to collaborate with web developers.<br>
-- 💬 Ask me about anything tech ekeanyanwuchristian10@gmail.com<br>
+- 💬 Ask me about anything tech [Ekeanyanwuchrisatian10@gmail.com](mailto:Ekeanyanwuchrisatian10@gmail.com)
 - ⚡ Fun fact: I love watching movies and enjoy programming.
 </p>
 
