@@ -15,7 +15,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/Abuskimyman/readme-typing-svg -->
   <a href="https://github.com/Abuskimyman/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;2years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;2years%20of%20coding%20experience;Always%20eager%20new% to%20new%learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -52,7 +52,7 @@
 
 
 <p align="center">
- - 🌱 I’m currently learning React Native and Testing.<br>
+ - 🌱 I’m currently learning Node js, React Native and Testing.<br>
 - 👯 I’m looking to collaborate with web developers.<br>
 - 💬 Ask me about anything tech Ekeanyanwuchrisatian10@gmail.com<br>
 - ⚡ Fun fact: I love watching movies and enjoy programming.
